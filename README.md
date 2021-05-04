@@ -1,1 +1,1 @@
-# UNET-for-Pneumothorax-Segmentation
+# 2 Stage UNET for Pneumothorax Segmentation
